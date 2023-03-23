@@ -7,4 +7,4 @@
 
 ["1234", "1567", "-2", "computer"] -> ["-2"]
 
-["Nice", "Hand", "Yes"] -> []
+["Nice", "Hand", "Record"] -> []
